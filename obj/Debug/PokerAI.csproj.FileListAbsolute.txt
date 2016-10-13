@@ -1,0 +1,16 @@
+c:\users\grondhog\documents\visual studio 2015\Projects\PokerAI\PokerAI\bin\Debug\PokerAI.exe.config
+c:\users\grondhog\documents\visual studio 2015\Projects\PokerAI\PokerAI\bin\Debug\PokerAI.exe
+c:\users\grondhog\documents\visual studio 2015\Projects\PokerAI\PokerAI\bin\Debug\PokerAI.pdb
+c:\users\grondhog\documents\visual studio 2015\Projects\PokerAI\PokerAI\bin\Debug\Newtonsoft.Json.dll
+c:\users\grondhog\documents\visual studio 2015\Projects\PokerAI\PokerAI\bin\Debug\Newtonsoft.Json.xml
+c:\users\grondhog\documents\visual studio 2015\Projects\PokerAI\PokerAI\obj\Debug\PokerAI.csprojResolveAssemblyReference.cache
+c:\users\grondhog\documents\visual studio 2015\Projects\PokerAI\PokerAI\obj\Debug\PokerAI.exe
+c:\users\grondhog\documents\visual studio 2015\Projects\PokerAI\PokerAI\obj\Debug\PokerAI.pdb
+C:\Users\wii-r\Documents\Visual Studio 2015\Projects\PokerAI\PokerAI\bin\Debug\PokerAI.exe.config
+C:\Users\wii-r\Documents\Visual Studio 2015\Projects\PokerAI\PokerAI\obj\Debug\PokerAI.exe
+C:\Users\wii-r\Documents\Visual Studio 2015\Projects\PokerAI\PokerAI\obj\Debug\PokerAI.pdb
+C:\Users\wii-r\Documents\Visual Studio 2015\Projects\PokerAI\PokerAI\bin\Debug\PokerAI.exe
+C:\Users\wii-r\Documents\Visual Studio 2015\Projects\PokerAI\PokerAI\bin\Debug\PokerAI.pdb
+C:\Users\wii-r\Documents\Visual Studio 2015\Projects\PokerAI\PokerAI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wii-r\Documents\Visual Studio 2015\Projects\PokerAI\PokerAI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wii-r\Documents\Visual Studio 2015\Projects\PokerAI\PokerAI\obj\Debug\PokerAI.csprojResolveAssemblyReference.cache
